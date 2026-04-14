@@ -80,6 +80,3 @@ Sou estudante do Ensino Médio no **SESI 265** e apaixonado por resolver problem
 
 ---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=V1C7O8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
