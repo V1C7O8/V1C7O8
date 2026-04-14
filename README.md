@@ -1,9 +1,6 @@
-<div align="center">
-
 # Olá! Eu sou o Victor Marques dos Santos 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+universo+de+c%C3%B3digo.)](https://git.io/typing-svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+universo+de+c%C3%B3digo.;Estudante+do+Senai+Jacob+lafer)](https://git.io/typing-svg)
 
 ### 🚀 Sobre mim
 
