@@ -33,7 +33,7 @@ Sou estudante do Ensino Médio no **SESI 265** e apaixonado por resolver problem
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,robloxstudio,github,unity,gmail,autocad,arduino,js,vscode,py" />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,robloxstudio,github,unity,gmail,autocad,arduino,js,vscode,py" />
   </a>
 </div>
 
